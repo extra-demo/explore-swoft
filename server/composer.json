@@ -1,13 +1,7 @@
 {
-  "name": "swoft/swoft",
+  "name": "lkker/service-users",
+  "license": "proprietary",
   "type": "project",
-  "keywords": [
-    "php",
-    "swoole",
-    "swoft"
-  ],
-  "description": "Modern High performance AOP and Coroutine PHP Framework, base on Swoole",
-  "license": "Apache-2.0",
   "require": {
     "php": ">7.1",
     "ext-pdo": "*",
